@@ -85,9 +85,9 @@ flutter run
 
 | Onboarding | Home Active | Add Task |
 |-------------|--------------|---------|
-| ![onboarding](screenshots/onboarding.png) | ![home_active](screenshots/home_active.png) | ![add_task](screenshots/add_task.png) |
+| ![onboarding](screenshot/onboarding.png) | ![home_active](screenshot/home_active.png) | ![add_task](screenshot/add_task.png) |
 | Task Details | Login Screen | Home Completed |
-| ![task_details](screenshots/task_details.png) | ![Login](screenshots/login.png) | ![home_completed](screenshots/home_completed.png) |
+| ![task_details](screenshot/task_details.png) | ![Login](screenshot/login.png) | ![home_completed](screenshot/home_completed.png) |
 
 
 ---
