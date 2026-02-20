@@ -83,13 +83,12 @@ flutter run
 
 ## 📸 Screenshots
 
-| Onboarding                      | Home (Active)                    | Add Task                      |
-| ------------------------------- | -------------------------------- | ----------------------------- |
-| ![](screenshots/onboarding.png) | ![](screenshots/home_active.png) | ![](screenshots/add_task.png) |
+| Onboarding | Home Active | Add Task |
+|-------------|--------------|---------|
+| ![onboarding](screenshots/onboarding.png) | ![home_active](screenshots/home_active.png) | ![add_task](screenshots/add_task.png) |
+| Task Details | Login Screen | Home Completed |
+| ![task_details](screenshots/task_details.png) | ![Login](screenshots/login.png) | ![home_completed](screenshots/home_completed.png) |
 
-| Task Details                      | Login                      | Home (Completed)                    |
-| --------------------------------- | -------------------------- | ----------------------------------- |
-| ![](screenshots/task_details.png) | ![](screenshots/login.png) | ![](screenshots/home_completed.png) |
 
 ---
 
