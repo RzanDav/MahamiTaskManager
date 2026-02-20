@@ -63,7 +63,7 @@ This separation ensures clean code practices and makes the app easier to maintai
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/RinadSalem/maham i.git
+git clone https://github.com/RzanDav/MahamiTaskManager.git
 cd mahami
 ```
 
